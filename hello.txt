@@ -1,1 +1,8 @@
+Hai @oonid dan @ahamadimaduddin!
+Mohon bantuanya untuk reviu beberapa pekerjaan yang telah dilakukan:
+- Membuat Halamn Fitur Pencarian
+- Menambahkan Cache hasil Pencarian
+- Menambahkan Place Holder saat Memuat Data
 
+Terima Kasih !!
+Happy Dicoding
