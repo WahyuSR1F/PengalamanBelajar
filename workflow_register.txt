@@ -1,0 +1,44 @@
+Workflow: Proses Registrasi
+
+Pengguna Membuka Aplikasi:
+
+Pengguna membuka aplikasi pada perangkatnya.
+Tampilan Halaman Registrasi:
+
+Aplikasi menampilkan halaman registrasi kepada pengguna.
+Masukkan Informasi Akun:
+
+Pengguna mengisi informasi yang diperlukan untuk membuat akun baru, seperti nama, alamat email, dan kata sandi.
+Validasi Informasi:
+
+Aplikasi melakukan validasi data yang dimasukkan pengguna, termasuk memeriksa keunikan alamat email dan kekuatan kata sandi.
+Pengiriman Konfirmasi (Opsional):
+
+Aplikasi dapat mengirimkan email konfirmasi kepada pengguna untuk memverifikasi alamat email yang diberikan.
+Buat Akun:
+
+Jika data yang dimasukkan valid, aplikasi membuat akun baru dengan menggunakan informasi yang diberikan pengguna.
+Opsi Pengisian Profil (Opsional):
+
+Setelah akun dibuat, pengguna mungkin diberi opsi untuk mengisi profil lebih lanjut, seperti foto profil atau informasi tambahan.
+Opsi Pemulihan Akun (Opsional):
+
+Aplikasi dapat menyediakan opsi untuk mengatur pertanyaan pemulihan atau metode lain untuk membantu pemulihan akun jika diperlukan.
+Opsi Verifikasi Dua Faktor (Opsional):
+
+Aplikasi dapat menawarkan opsi verifikasi dua faktor untuk meningkatkan keamanan akun pengguna.
+Pemberitahuan Selamat Datang:
+
+Aplikasi memberikan pemberitahuan atau pesan selamat datang kepada pengguna setelah akun berhasil dibuat.
+Sesi Otomatis:
+
+Setelah akun dibuat, aplikasi dapat secara otomatis masuk ke akun pengguna dan mengarahkannya ke tampilan utama.
+Pengamanan Data Akun:
+
+Aplikasi harus memastikan bahwa data akun pengguna disimpan dengan aman menggunakan teknik enkripsi dan praktik keamanan lainnya.
+Monitoring dan Audit (Opsional):
+
+Aplikasi mungkin memiliki mekanisme untuk memantau aktivitas registrasi dan mengamati kejadian penting terkait keamanan.
+Pemberitahuan dan Kebijakan Privasi:
+
+Pengguna harus diberi informasi tentang kebijakan privasi dan persyaratan penggunaan aplikasi.
